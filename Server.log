@@ -1,0 +1,71 @@
+BackupNameAttachment=" Build(35870) Date(03 January 2015) Time(21 44 53)"  -- used by backup system
+ 
+Log Started at #c
+Running 32 bit version
+Executable: E:\svn\ArcheAge\bin32\dedicatedserver.exe
+FileVersion: 0.5.1.35870
+ProductVersion: 0.5.1.35870
+Using Microsoft (tm) C++ Standard Library implementation
+ 
+Revision: 10200
+ 
+<21:44:53> mount e:\svn\ArcheAge\ArcheAge/Game_pak on / due to: 2
+<21:44:53> mount e:\svn\ArcheAge\ArcheAge/Game on /game due to: 2
+<21:44:53> --- CPU detection ---
+<21:44:53> CPU: Intel        Intel(R) Core(TM) i5-2520M CPU @ 3.50GHz
+<21:44:53> Family: 6, Model: 10, Stepping: 7
+<21:44:53> FPU: On-Chip
+<21:44:53> CPU Speed (estimated): 3494.027584 MHz
+<21:44:53> MMX: not present
+<21:44:53> SSE: present
+<21:44:53> 3DNow!: not present
+<21:44:53> Serial number not present or disabled
+<21:44:53> Number of logical processors: 4
+<21:44:53> Number of available logical processors: 4
+<21:44:53> Invariant Time Stamp Counter : yes
+<21:44:53> ---------------------
+
+<21:44:53> Device Info
+<21:44:53> Video Memory Info
+<21:44:53> InitThreadAffinities
+<21:44:53> UpdateMainThreadAffinity
+<21:44:53> Stream Engine Initialization
+<21:44:53> Enable Resolutions : 2
+<21:44:53> Screen Resolution - 1600x900
+<21:44:53> Screen Resolution - 1 (1600x900)
+<21:44:53> Screen Resolution - Test OK (1600x900)
+<21:44:53> Network initialization
+<21:44:53> Socket I/O by iocp
+<21:44:53> Physics initialization
+<21:44:53> MovieSystem initialization skipped for dedicated server
+<21:44:53> Renderer initialization - Start
+<21:44:53> Renderer initialization - Open
+<21:44:53> Renderer initialization - DLL Load(CryRenderNULL.dll)
+<21:44:53> Renderer initialization - DLL Done
+<21:44:55> Renderer initialization - DLL Init
+<21:44:55> Renderer initialization - Instance
+<21:44:55> Shader manager initialization
+<21:44:55> open texture db index file - Done
+<21:44:55> CResFile allocations incurred by user cache preload: (0.00k)
+<21:44:55> Renderer initialization - Done
+<21:44:55> Console initialization
+<21:44:55> Time initialization
+<21:44:55> Font initialization
+<21:44:55> load texture textures/defaults/replaceme.dds, file [File=textures/defaults/replaceme.dds]
+<21:44:55> AI initialization
+<21:44:55> Initializing Animation System
+<21:44:55> Initializing 3D Engine
+<21:44:55> [Warning] Sky light: Optical lookup tables couldn't be loaded off disc. Recomputation needed!
+<21:44:55> Script System Initialization
+<21:44:55> load script file scripts/common.lua
+<21:44:55> Entity system initialization
+<21:44:55> Initializing AI System
+<21:44:55> Initializing Budgeting System
+<21:44:55> Initializing Seamless System
+<21:44:55> Splash: Loading Game Data...
+<21:45:03> svn/ArcheAge/game_2248.sqlite3 from \\rails\x2gamedb\game.sqlite3
+<21:45:03> retry in 2 sec...
+<21:45:05> retry in 2 sec...
+<21:48:28> sqlite3_open: ready to open database file
+<21:48:28> open DDCMS at game\db\compact.sqlite3
+
